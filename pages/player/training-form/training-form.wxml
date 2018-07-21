@@ -1,0 +1,29 @@
+<view>
+    <zan-panel title="">
+        <zan-field
+            title="晨脉"
+            placeholder="范围：45-95"
+        />
+        <view class="textView">
+            <text>常称晨脉，为清晨、清醒、起床前、静卧时的心率，但应排除惊吓、恶梦等因素的影响</text>
+        </view>
+
+        <zan-field
+            title="自觉用力程度"
+            placeholder="范围：45-95"
+        />
+        <view class="textView">
+            <text>常称晨脉，为清晨、清醒、起床前、静卧时的心率，但应排除惊吓、恶梦等因素的影响</text>
+        </view>
+
+        <zan-field
+            title="晨脉"
+            placeholder="范围：45-95"
+        />
+        <view class="textView">
+            <text>常称晨脉，为清晨、清醒、起床前、静卧时的心率，但应排除惊吓、恶梦等因素的影响</text>
+        </view>
+
+
+    </zan-panel>
+</view>

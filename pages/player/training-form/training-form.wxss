@@ -1,0 +1,8 @@
+.textView{
+    padding-left:32rpx;
+    padding-right:32rpx;
+
+}
+text{
+    font-size: 24rpx;
+}
