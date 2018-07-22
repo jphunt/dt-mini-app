@@ -1,9 +1,11 @@
 {
   "navigationBarTitleText": "今日训练数据",
-
-  "usingComponents":{
-    "zan-panel":"../../../dist/panel/index",
+  "usingComponents": {
+    "zan-panel": "../../../dist/panel/index",
     "zan-noticebar": "../../../dist/noticebar/index",
-    "zan-field":"../../../dist/field/index",
+    "zan-field": "../../../dist/field/index",
+    "zan-select": "../../../dist/select/index"
+
+
   }
 }
